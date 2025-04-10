@@ -14,7 +14,7 @@ In multiplayer, if there are less than 4 players, the mod will also try to spawn
  
 In freeplay, the equipment is automatically placed in the armor when the intro cutscene ends.
 
-The sprites of the fusion construction robots were inspired by the "fusion robots" mod by mindmix. Since the graphcis of his mod are older, I tried to make the vanilla construction robots look "fusion" myself. If you want the GIMP files, please contact me.
+The sprites of the fusion construction robots were inspired by the "fusion robots" mod by mindmix. Since the graphics of his mod are older, I tried to make the vanilla construction robots look "fusion" myself. If you want the GIMP files, please contact me.
 
 ## Compatibility
 The mod should be compatible with following mods: 
