@@ -8,7 +8,7 @@ A simple mod for Factorio where you start the game with exoskeleton armor with 1
 
 Neither item can be crafted, so you get what you get.
 
-In single player, the mod will try to spawn the exoskeleton armor and fusion construction robots in the debris of the spaceship if the intro scene hasn't finished yet. As the vanilla function "set_debris_items" stops spawning items when there's no more space, it can happen that the items are not spawned properly. In this case, there is a custom command, /sbs-give-armor, which allows the player whose armor is missing to spawn it. If the mod was added after the game started, it will try to find the wreckage to spawn the items inside them. If it can't find anything, it will spawn the items directly in the player's inventory.
+In single player, the mod will try to spawn the exoskeleton armor and fusion construction robots in the debris of the spaceship if the intro scene hasn't finished yet. As the vanilla function "set_debris_items" stops spawning items when there's no more space, it can happen that the items are not spawned properly. In this case, there is a custom command, /sbs-give-armor, which allows the player whose armor is missing to spawn it. If the mod was added after the game started, it will try to find the wreckage to spawn the items. If the wreckage has been removed, the mod will spawn the items directly in the player's inventory.
 
 In multiplayer, if there are less than 4 players, the mod will also try to spawn the items in the debris of the spaceship. If there are more than four players, the items should spawn directly in the players' inventories. Multiplayer functionality hasn't been tested yet.
  
