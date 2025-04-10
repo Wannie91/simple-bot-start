@@ -10,6 +10,10 @@ In single player, the mod will try to spawn the exoskeleton armour and fusion co
 
 In multiplayer, if there are less than 4 players, the mod will also try to spawn the items in the wreckage of the ship. This increases the risk of items not spawning properly, so this may change in the future. If there are more than four players, the items should spawn directly in the players' inventories. Multiplayer functionality hasn't been tested yet.
 
+In freeplay, the equipment is automatically placed in the armour when the intro cutscene ends and can't be removed afterwards.
+
+The sprites of the fusion construction robots were inspired by the "fusion robots" mod by mindmix. Since the graphics of his mod are older, I tried to make the vanilla construction robots look "fusion" myself. If you want the GIMP files, please contact me.
+
 ## Compatibility
 This mod should be compatible with the following mods: 
 - Any Planet Launch 
