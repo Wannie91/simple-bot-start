@@ -4,7 +4,7 @@
 0.1.0
 
 ## Description
-A simple mod for Factorio where you start the game with basic exoskeleton armor and 50x fusion construction robots. The armor comes equipped with a fission reactor, an exoskeleton, night vision and two personal roboports MK2. The armor provides no physical protection and its grid is locked, so the equipment can't be removed later in the game. Fusion construction robots are fireproof, don't need to be recharged, and are initially faster than their vanilla counterparts. However, their maximum speed is limited, so normal construction robots will become faster than them after researching Worker Robot Speed 5. 
+A simple mod for Factorio where you start the game with basic exoskeleton armor and 50 fusion construction robots. The armor comes equipped with a fission reactor, an exoskeleton, night vision and two personal roboports MK2. The armor provides no physical protection and its grid is locked, so the equipment can't be removed later in the game. Fusion construction robots are fireproof, don't need to be recharged, and are initially faster than their vanilla counterparts. However, their maximum speed is limited, so normal construction robots will become faster than them after researching Worker Robot Speed 5. 
 
 Both armor and fusion construction robots can't be crafted. So you get what you get. The aim of the mod is to give players an early start with robots, without the benefits of late game armour and equipment. 
 
