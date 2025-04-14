@@ -1,9 +1,9 @@
 {
     "name": "SimpleBotStart",
-    "version": "0.1.0",
+    "version": "1.0.1",
     "title": "Simple Bot Start",
     "author": "Wannie",
     "factorio_version": "2.0",
-    "dependencies": ["base >= 2.0"],
+    "dependencies": ["base >= 2.0", "space-age >= 2.0"],
     "description": "A simple mod where you start the game with a basic exoskeleton armor, 1x fission reactor, 2x personal roboports MK2, night vision, 1x exoskeleton and 50 fusion construction robots."
 }

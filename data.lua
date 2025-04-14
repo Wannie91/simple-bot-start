@@ -29,7 +29,7 @@ data:extend({
     {
         type = "armor",
         name = "exoskeleton-armor",
-        localised_name = "Basic Exoskeleton Armor",
+        localised_name = "Basic Exoskeleton armor",
         icon =  "__SimpleBotStart__/graphics/icons/exoskeleton-armor.png",
         resistances = {},
         subgroup = "armor",
